@@ -1,0 +1,23 @@
+{
+    "name": "Web_to_world",
+    "version": "5.0.0",
+    "repository": "https://github.com/0123454321/web_to_world",
+    "description": "hello_web_world",
+    "main": "backend.js",
+    "scripts": {
+        "start": "node backend.js"
+    },
+    "keywords": [
+        "node.js"
+    ],
+    "author": "TN",
+    "license": "MIT",
+    "dependencies": {
+        "babel": "^6.23.0",
+        "corrosion": "^1.0.0",
+        "express": "^4.17.1",
+        "mime-types": "^2.1.27",
+        "node-fetch": "^3.2.0",
+        "ws": "^7.5.3"
+    }
+}
