@@ -1,7 +1,8 @@
 {
+    "engines": { "node": "16.x" }
     "name": "Web_to_world",
     "version": "5.0.0",
-    "repository": "https://github.com/0123454321/web_to_world",
+    "repository": "https://github.com/vscwjm/web_to_world",
     "description": "hello_web_world",
     "main": "backend.js",
     "scripts": {
